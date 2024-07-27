@@ -1,3 +1,1 @@
-# Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer
-
-<img alt="teaser" src="assets/coming_soon.jpeg" width="100%"/>
+# Important Message: This repository is no longer used. Please refer to https://github.com/MonkeySeeDoCG/MoMo for the code related to the paper  "Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer".
